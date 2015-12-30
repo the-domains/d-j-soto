@@ -1,7 +1,7 @@
 name: D.J. Soto
 favicon: null
-layout_spectrum: 0.25035
-typography_spectrum: 1
+layout_spectrum: 1
+typography_spectrum: 0.74965
 title: D.J. Soto
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#0a0502'
+    - '#2f5f91'
+    - '#efdbbe'
+    - '#8e8579'
+    - '#9a422c'
   brandStrength: 0
   lightness: 0.625
   saturation: 0.625
