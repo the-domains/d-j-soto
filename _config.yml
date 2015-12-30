@@ -1,0 +1,28 @@
+name: D.J. Soto
+favicon: null
+layout_spectrum: 0.18787000351585448
+typography_spectrum: 0.004121354315429926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3348382299300283
+  lightness: 0.2329423080664128
+  saturation: 0.6183009902015328
+  rhythmicContrast: 0.007454654900357127
+purpose: []
