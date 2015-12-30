@@ -1,6 +1,6 @@
 name: D.J. Soto
 favicon: null
-layout_spectrum: 0.75243
+layout_spectrum: 0.49305
 typography_spectrum: 0.74965
 title: D.J. Soto
 cta:
@@ -22,8 +22,8 @@ color:
     - '#efdbbe'
     - '#8e8579'
     - '#9a422c'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0.625
-  rhythmicContrast: 0.007454654900357127
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
