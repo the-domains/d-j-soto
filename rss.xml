@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[D.J. Soto]]></title>
         <description><![CDATA[D.J. Soto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/d-j-soto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 16:45:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 16:57:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/d-j-soto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8274de02-80a4-4c9d-91f3-97a12e5d4862.jpg">]]></description>
+            <link>https://thegrid.ai/d-j-soto/ce60ea19-0169-46ac-a504-d3e21b17b570/index.html</link>
+            <guid isPermaLink="false">ce60ea19-0169-46ac-a504-d3e21b17b570</guid>
+            <pubDate>Wed, 30 Dec 2015 16:57:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>Testing the Future of Web Development</p></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/d-j-soto/test/index.html</link>
             <guid isPermaLink="false">0b2b3501-0c05-4d42-b31d-1ff24d6b83dd</guid>
             <pubDate>Wed, 30 Dec 2015 16:45:00 GMT</pubDate>
         </item>
